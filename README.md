@@ -4,12 +4,18 @@ A modern and responsive personal portfolio website to showcase my profile, servi
 
 ## 🔗 Live Preview
 
-[🌐 View Portfolio](https://zahra-zainab.github.io/Personal-Portfolio/)
+[View Portfolio](https://zahra-zainab.github.io/Personal-Portfolio/)
 
 ## 📁 Sections
 
 ### 🏠 Home
-A welcoming hero section with a short introduction, professional tagline, and a call-to-action button.
+A welcoming **hero section** that includes:
+- A short introduction (e.g., "Hi, I'm Zahra Zainab, a passionate Web Developer.")
+- A professional tagline like _"Transforming ideas into interactive digital experiences."_
+- A prominent **Call-to-Action** button (e.g., “Hire Me Now”)
+- Direct links to:
+  - 📧 Email: [zahra.zainab1166@gmail.com](mailto:zahra.zainab1166@gmail.com)  
+  - 🐙 GitHub: [https://github.com/Zahra-Zainab](https://github.com/Zahra-Zainab)
 
 ### 👤 About
 Brief bio with personal background, career goals, and interests.
@@ -17,8 +23,8 @@ Brief bio with personal background, career goals, and interests.
 ### 🛠️ Services
 A section describing the services I offer, such as:
 - Web Development
-- UI/UX Design
-- Responsive Design
+- Web Designing
+- Data Analysis
 
 ### 📊 Skills
 A visual representation of my technical and soft skills using progress bars or icons.
@@ -53,6 +59,5 @@ To run this project locally:
 For any inquiries, feel free to reach out:
 
 📧 zahra.zainab1166@gmail.com
-🐙 Zahra-Zainab
 
 ⭐️ Don’t forget to star this repo if you like it!
